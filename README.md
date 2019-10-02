@@ -1,1 +1,1 @@
-# Multi_Domain_LDAP_Multi_Domain_LDAP
+# Multi Domain LDAP Script using PHP
