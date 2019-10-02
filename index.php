@@ -99,4 +99,6 @@ $result = ad_validate_user('YOUR EMAIL', 'YOUR PASSWORD');
 
 echo '<pre>';
 print_r($result);
+
+
 ?>
